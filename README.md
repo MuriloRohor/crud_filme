@@ -9,15 +9,3 @@ PostgreSQL (ou outro banco de dados compatível): um sistema de gerenciamento de
 Configuração
 Certifique-se de ter o Node.js instalado em sua máquina. Você pode baixá-lo em: https://nodejs.org.
 
-Clone este repositório em sua máquina:
-
-bash
-Copy code
-git clone https://github.com/seu-usuario/seu-projeto.git
-Navegue até o diretório raiz do projeto:
-bash
-Copy code
-cd seu-projeto
-Instale as dependências do projeto:
-Copy code
-npm install
